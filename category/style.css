@@ -1,0 +1,38 @@
+.heading {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 20px;
+  }
+  
+  .btn {
+    margin-right: 10px;
+  }
+  
+  .table th {
+    text-align: center;
+  }
+  
+  .btn-dark {
+    color: #fff;
+    background-color: #343a40;
+    border-color: #343a40;
+  }
+  
+  .btn-dark:hover {
+    color: #fff;
+    background-color: #23272b;
+    border-color: #1d2124;
+  }
+  
+  .btn-success {
+    color: #fff;
+    background-color: #28a745;
+    border-color: #28a745;
+  }
+  
+  .btn-success:hover {
+    color: #fff;
+    background-color: #218838;
+    border-color: #1e7e34;
+  }
